@@ -1,0 +1,2 @@
+# Oppominer
+Mining bitcoin
